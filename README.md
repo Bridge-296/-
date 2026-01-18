@@ -1,2 +1,2 @@
-# Pictures
-My Pictures
+# 数学建模校赛
+
